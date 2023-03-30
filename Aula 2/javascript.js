@@ -1,3 +1,7 @@
+alert("Olá! Este é um alert com background azul!");
+
+
+
 let contador = 0;
 let alturasFeminino = [];
 let alturasMasculino = [];
@@ -15,4 +19,5 @@ while (contador < 2) {
 
 console.log("Alturas femininas: " + alturasFeminino);
 console.log("Alturas masculinas: " + alturasMasculino);
+
 
